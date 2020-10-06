@@ -17,8 +17,11 @@
 8. Type `git clone <url>` where `<url>` is replaced with your copied url
 
 
+
 CONGRATS!!  you have completed forking a repository
+
 But we still need to set up a remote so you can pull new content from the main repo but also push to your FORKED repo
+
 
 
 9. Use the `ls` command to see the newly cloned "EscapeEarth" folder
