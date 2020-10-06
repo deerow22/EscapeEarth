@@ -13,4 +13,4 @@
 
 <hr>
 
-materials for Brown Scholar 2020-2021 Interns# EscapeEarth
+materials for Brown Scholar 2020-2021 Interns
