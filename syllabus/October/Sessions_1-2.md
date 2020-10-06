@@ -7,7 +7,7 @@
 ##### Welcome & introduction [slides](https://docs.google.com/presentation/d/1HpVDqOzgoeeHYKegwa3d1GZVaSOUOiJtEJf31BC8jAw/edit?usp=sharing)
 ##### [Technology Survey](https://forms.gle/mRW6EnpapfhVnuHv8)
 ##### Set-up structure for Google Colab [directions](https://github.com/deerow22/EscapeEarth/blob/main/overview/SetUp.md)
-##### Create a Cheers & Challenges Function
+##### Create a Cheers & Challenges Function as [Activity-1](https://github.com/deerow22/EscapeEarth/blob/main/interns/Activities/Instructions/Activity-1.md)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
