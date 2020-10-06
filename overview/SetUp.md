@@ -14,9 +14,13 @@
 ![clone repo url](https://github.com/deerow22/EscapeEarth/blob/main/photos/clone_url.png)
 
 7. Going back to your Terminal window use `pwd` to verify you are in the correct location: "Desktop/Internship"
-8. Type `git clone <url>` where `<url>` is replaced with your copied url 
-...CONGRATS!!  you have completed forking a repository
-...But we still need to set up a remote so you can pull new content from the main repo but also push to your FORKED repo
+8. Type `git clone <url>` where `<url>` is replaced with your copied url
+
+
+CONGRATS!!  you have completed forking a repository
+But we still need to set up a remote so you can pull new content from the main repo but also push to your FORKED repo
+
+
 9. Use the `ls` command to see the newly cloned "EscapeEarth" folder
 10. Use the `cd` command to navigate into the EscapeEarth folder
 11. Type `git remote add upstream <main url>` where `<main url>` is replaced by the url for our main project repo - See step 1.
