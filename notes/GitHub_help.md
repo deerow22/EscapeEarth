@@ -3,7 +3,7 @@
 
 main google [colab webpage](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGuLzqkpfsAhU9lHIEHZZsDCwQFjAAegQIBhAD&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
 
-## to create a new colab notebook
+## _to create a new colab notebook_
 
 1. go to your google drive webpage
 2. double click the `EE-notebooks-YOURNAME` folder
@@ -12,14 +12,14 @@ main google [colab webpage](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&sour
 5. click on the name of the notebook and rename descriptively
 
 
-## to open a colab notebook from a previous session
+## _to open a colab notebook from a previous session_
 
 1. go to google drive website
 2. right-click on your `EE-notebooks-YOURNAME` folder
 3. on the popup menu select `Open with`-->`Google Colaboratory`
 
 
-## to open a notebook pulled from the MAIN EscapeEarth repo
+## _to open a notebook pulled from the MAIN EscapeEarth repo_
 
 1. go to the main google colab webpage
 2. on the pop-up menu select the `GitHub` tab
@@ -30,7 +30,7 @@ main google [colab webpage](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&sour
 note: when running cells you may get a "Warning: This notebook was not authored by Google."--click `RUN ANYWAY`
 
 
-## to add a notebook to your FORKED EscapeEarth repo
+## _to add a notebook to your FORKED EscapeEarth repo_
 
 note: colab notebooks will autosave
 1. On the top webpage menu bar click `File`
@@ -44,12 +44,12 @@ note: colab notebooks will autosave
 9. Verify your changes by checking your FORKED EscapeEarth repo on the GitHub website
 
 
-#########################################################
+# ########################################################
 
 # FOR FILES ON YOUR COMPUTER
 
 
-## to add a file to your FORKED EscapeEarth repo
+## _to add a file to your FORKED EscapeEarth repo_
 
 1. open terminal & `cd` to the folder where your notebook is
 2. type `git status` this will list all the files that git is tracking for you and their status
@@ -60,14 +60,14 @@ note: colab notebooks will autosave
 7. type `git push origin main` this pushes the file commit to the git hub website VERY IMPORTANT!
 
 
-## to download (pull) files that have changed in our MAIN EscapeEarth repo
+## _to download (pull) files that have changed in our MAIN EscapeEarth repo_
 
 1. open terminal & `cd` into the folder EscapeEarth 
 2. type `git status` and check for the message `Your branch is up to date with 'origin/main'.`
 3. if you are not up to date type `git pull upsteam main`
 
 
-## to pull files from your FORKED EscapeEarth repo (usually done if we pushed file from google colab first)
+## _to pull files from your FORKED EscapeEarth repo (usually done if we pushed file from google colab first)_
 1. open terminal & `cd` into the folder EscapeEarth
 2. type `git pull`
 
@@ -77,7 +77,7 @@ note: colab notebooks will autosave
 
 # HANDLING MERGE CONFLICTS
 
-### if you forget to pull before you push something this can happen
+### _if you forget to pull before you push something this can happen_
 
 1. git on the command line will tell you about a merge conflict -- EXAMINE THIS CAREFULLY: if conflict is due to missing files, proceed below; if conflict is due to different versions of the same file - tell me, we'll need an individual solution
 2. emacs will open within the terminal window asking for a reason the merge is needed
