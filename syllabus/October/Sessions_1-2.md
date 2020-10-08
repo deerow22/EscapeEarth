@@ -19,5 +19,5 @@
 ##### Repo Structure [Guide](https://docs.google.com/presentation/d/17K2YNLfi6pLq1NOdM7t1RC6cAemHexsx-tGNKwzxHDs/edit?usp=sharing)
 ##### Push our C&C function to your FORKED repo [Guide](https://github.com/deerow22/EscapeEarth/blob/main/notes/GitHub_help.md)
 ##### Learn about TESS [slides](https://docs.google.com/presentation/d/1dk_qYQHTaDcJEvmxUe359pyk8SJ34IfWW-8ZgKxolfE/edit?usp=sharing)
-##### Practice accessing our platforms
+##### Data interpretations [Activity-2](https://github.com/deerow22/EscapeEarth/blob/main/interns/Activities/Instructions/Activity-2.md)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
