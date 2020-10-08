@@ -14,8 +14,9 @@
 
 ## October 8th
 #### Vocab of the week in your words 
+##### Finish C&C function
 ##### Set-up Forked Repository
-##### Practice accessing our platforms
 ##### Push our C&C function to the GitHub repos
 ##### Learn about TESS [slides](https://docs.google.com/presentation/d/1dk_qYQHTaDcJEvmxUe359pyk8SJ34IfWW-8ZgKxolfE/edit?usp=sharing)
+##### Practice accessing our platforms
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
