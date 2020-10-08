@@ -15,8 +15,7 @@ you should have already opened df1 - this code is only for one dataframe at a ti
 ```
 import astropy
 from astropy.coordinates import SkyCoord
-df1_new_col1 = []
-df1_new_col2 = []
+
 c_old = SkyCoord([df1['col1'].to_numpy()], [df1['col2'].to_numpy()], frame='icrs',unit='degree') #replace df1 if your variable names are different 
 c_new = c_old.galactic
 for count in range(len(c_new[0])):
