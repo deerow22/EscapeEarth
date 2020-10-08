@@ -15,7 +15,7 @@ main google [colab webpage](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&sour
 ## _to open a colab notebook from a previous session_
 
 1. go to google drive website
-2. right-click on your `EE-notebooks-YOURNAME` folder
+2. press the `control`key and click on your `EE-notebooks-YOURNAME` folder
 3. on the popup menu select `Open with`-->`Google Colaboratory`
 
 
@@ -38,7 +38,7 @@ note: colab notebooks will autosave
 3. If pop-up blockers are on, you will get a message to turn them off -turn them off, then click `try again`
 4. Enter the url for your FORKED EscapeEarth repo, press `Enter` or click the 'search' icon 
 5. Make sure you select the correct repository & branch
-6. ADD `Interns/YOURNAME/`in front of the notebook name listed in `File path`
+6. ADD `Interns/YOURNAME/` (replace `YOURNAME` with your first name) in front of the notebook name listed under `File path`
 7. Change the `Commit message` to describe the version of or changes made to the notebook
 8. Click `OK`
 9. Verify your changes by checking your FORKED EscapeEarth repo on the GitHub website
