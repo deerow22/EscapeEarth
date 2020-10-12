@@ -15,9 +15,13 @@
 #### Vocab of the week in your words 
 ##### Introduction to LightKurve & [installation](https://docs.lightkurve.org/quickstart.html)
 ##### LightKurve [Tutorials](https://docs.lightkurve.org/tutorials/index.html)
-	1. What are TargetPixelFile objects?; What are LightCurve objects?; What are LightCurveFile objects?; What are Periodogram objects?
-	2. 2.1 How to save a LightCurve in FITS format?;    
-	3. 3.1 How to recover the first TESS planet candidate with Lightkurve?; Machine learning style preprocessing with lightkurve
+	1. -What are TargetPixelFile objects?; 
+	   -What are LightCurve objects?; 
+	   -What are LightCurveFile objects?; 
+	   -What are Periodogram objects?
+	2. 2.1 -How to save a LightCurve in FITS format?;    
+	3. 3.1 -How to recover the first TESS planet candidate with Lightkurve?; 
+		   -Machine learning style preprocessing with lightkurve
 ##### Discuss data download strategy 
 ##### Select C&C Rep.
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
