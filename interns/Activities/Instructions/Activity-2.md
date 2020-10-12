@@ -1,6 +1,6 @@
 # Activity-2: Data Interpretation through visualization
 
-__Instructions:__ There are some files, each containing a dataframe, inside our google drive folder within a new folder called "Activity-2". 
+__Instructions:__ There are some files, each containing a dataframe, inside our google drive "EscapeEarthData/Activity-2". 
 1. I want you to open the data and plot it. See if you can interpret the images yet. Plot them individually and together on one plot. 
 2. Then you should transform each dataframe's arrays using the code below. Plot the transformed data and try to interpret what you are seeing. 
 Are there any trends? Are there sharp edges or a lot of scatter? Is there overlap? Let's discuss.
