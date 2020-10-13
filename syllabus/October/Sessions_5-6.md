@@ -15,6 +15,6 @@
 #### Vocab of the week in your words 
 ##### Discuss data management & division of labor
 ##### Begin data cleaning
-##### 
+##### Planet Detection Methods [link](https://exoplanets.nasa.gov/tess/)
 ##### Select C&C Rep.
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
