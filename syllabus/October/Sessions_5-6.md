@@ -20,11 +20,4 @@
 
 
 ## October 22nd
-#### Vocab of the week in your words 
-#### Download [Atom](https://atom.io)
-#### Finish Lightkurve tutorials
-#### Google colab - test data downloading methods
-#### Discuss data management & division of labor
-#### Create .py script to download data
-#### Select C&C Rep.
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
+#### Guest Speaker Madhuri Yechuri
