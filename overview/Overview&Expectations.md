@@ -41,8 +41,7 @@ Program email: bridgeupstem@amnh.org
    and cc drowland@amnh.org and cc a guardian.
 2. If you need to step away for 5 mins or less, put a message in the zoom chat
 3. If you will be away longer than 5 mins, still put a message in the zoom chat
-   and expect to do one of the make up methods listed below. following: 
-   stay during a break/stay after session/schedule a makeup session
+   and expect to do one of the make up methods listed below.
 4. If you miss a session completely: depending on the material missed you should
    catch up via a make up method listed below.  
 5. Successful completion of the program == ending with no more than 5 absences; 
@@ -54,5 +53,7 @@ Make up Methods
 1. stay during a 5 minute break (concept missed)
 2. stay after a session  (complex concept and/or work missed)
 3. email me to schedule a make up session (usually a full class missed)
+
+
 ** Also note that you can use these methods if you want additional help too, not just as make up 
 

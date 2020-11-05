@@ -8,6 +8,9 @@
 
 ## November 5th
 #### Vocab of the week [Stellar Rotation](https://docs.google.com/presentation/d/1O0J19b3U33OMi2EFaC6E0e_QQhiLYR41N3tgTyBvKTg/edit?usp=sharing)
+#### Planet Detection Methods [link](https://exoplanets.nasa.gov/tess/)
+#### "Finish" .py script to download data
+#### Prepare for Guest Speaker [Dr. Ruth Angus](https://ruthangus.github.io)
 #### Intro to Data Cleaning
 #### Begin data cleaning? 
 #### Select C&C Rep.
