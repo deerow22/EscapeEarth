@@ -11,7 +11,6 @@
 #### Planet Detection Methods [link](https://exoplanets.nasa.gov/tess/)
 #### Finish .py script to download data
 #### Prepare for Guest Speaker [Dr. Ruth Angus](https://ruthangus.github.io)
-#### Practice Teletype with Atom
 #### Intro to Data Cleaning?
 #### Select C&C Rep.
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
