@@ -3,7 +3,7 @@
 
 
 # Instructions:
-#### We're going to search the LightKurve library for functions that will 
+We're going to search the LightKurve library for functions that will 
 help us clean our raw light curves. We will need to understand the 
 required input and output data in order to use the functions. We will 
 then create a tutorial notebook to show how to implement the function
