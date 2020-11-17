@@ -20,4 +20,5 @@
 
 
 ## October 22nd
+#### Select C&C Rep. -- Sarah won!
 #### Guest Speaker Madhuri Yechuri
