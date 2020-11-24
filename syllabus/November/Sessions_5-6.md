@@ -14,6 +14,5 @@
 #### Vocab of the week in your own words
 #### Finish Activity-3 
 #### Teams present their Tutorials 
-#### Combine Cleaning Methods into a .py file with Atom 
 #### Reminder: C&C Rep. is Elise
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
