@@ -12,12 +12,12 @@
 
 ## December 3rd
 #### Guest Speaker - Lisa Burton
-### OR
-#### Vocab of the Week in your Own Words
-#### Plan Analysis Tools Library 
-#### Start Library Functions 
-- open data 
-- plot (raw & cleaned) light curves
+### ~OR~
+#### ~Vocab of the Week in your Own Words~
+#### ~Plan Analysis Tools Library~ 
+#### ~Start Library Functions~ 
+- ~open data~ 
+- ~plot (raw & cleaned) light curves~
 
-#### Select C&C Rep
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
+#### ~Select C&C Rep~
+#### ~[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)~
