@@ -11,7 +11,7 @@
 
 ## December 17th
 #### Guest Speaker (Brown Scholar Alum)
-#### See you in 2021!
+#### See you in 2021! (specifically Tuesday January 5th)
 
 <div><div align="left" width=80px>
     <img src="https://2021happynewyear.com/wp-content/uploads/2020/02/new-year-images-2021.jpg" width="350"">
