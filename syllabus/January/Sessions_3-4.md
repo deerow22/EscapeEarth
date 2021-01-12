@@ -14,6 +14,6 @@
 
 
 
-## Janurary 16th
-#### 3:30pm - 4:30pm
+## January 16th
+#### Saturday Professional Day LinkedIn Workshop 3:30pm - 4:30pm via Zoom
 #### Please Register [here](https://forms.gle/pKzRe2tjGR8qWpkx7)

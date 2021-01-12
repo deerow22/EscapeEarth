@@ -11,7 +11,7 @@
 
 ## January 7th
 #### Finish Library with Classes
-#### Box-Least-Squares (bls) intro 
-#### Sudo code bls prep & analysis steps
+#### ~~Box-Least-Squares (bls) intro~~ 
+#### ~~Sudo code bls prep & analysis steps~~
 #### Select C&C Rep
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
