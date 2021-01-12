@@ -3,13 +3,17 @@
 
 ## January 12th
 #### Cheers & Challenges
-#### Review sudo code steps for bls analysis
+#### Box-Least-Squares (bls) intro 
+#### Sudo code bls prep & analysis steps
 #### 3 Teams: period/duration grid functions; flatten light curve function; bls function
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
 ## January 14th
-#### Finish 3 teams work 
-#### Put all teams work into one analysis function
-#### Select C&C Rep
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
+#### No Session to allow for attendance on Saturday
+
+
+
+## Janurary 16th
+#### 3:30pm - 4:30pm
+#### Please Register [here](https://forms.gle/pKzRe2tjGR8qWpkx7)
