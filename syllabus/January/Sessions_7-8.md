@@ -3,10 +3,10 @@
 
 ## January 26th
 #### Cheers & Challenges
+#### Go back to previous ClassTest to see changes to class structure to work with google colab
 #### Test BLS function
 #### Combine each team's function into a script to run BLS analysis
 #### Test script on subsample
-#### Go back to previous ClassTest to see changes to class structure to work with google colab
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
