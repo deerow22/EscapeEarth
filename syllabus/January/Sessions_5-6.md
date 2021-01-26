@@ -12,6 +12,6 @@
 ## January 21st
 #### Finish team work
 #### Put all teams work into one analysis function?
-#### Select C&C Rep
+#### C&C Rep Elise by default
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
