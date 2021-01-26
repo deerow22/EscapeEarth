@@ -4,6 +4,7 @@
 ## January 26th
 #### Cheers & Challenges
 #### Go back to previous ClassTest to see changes to class structure to work with google colab
+#### Each team describes their function(s) from last week
 #### Test BLS function
 #### Combine each team's function into a script to run BLS analysis
 #### Test script on subsample
