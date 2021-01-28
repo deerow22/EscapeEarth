@@ -13,6 +13,7 @@
 
 
 ## January 28th
+#### What goes in a talk? [slides](https://docs.google.com/presentation/d/1Hj2bN0ZGYKSh6BJPC9JfHQNvXgsMvsMJen50A9mCK74/edit?usp=sharing)
 #### Plan mid-year presentation
 #### Decide figures/stats needed
 #### Assign slides & plots to create
