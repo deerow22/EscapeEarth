@@ -17,6 +17,6 @@
 #### Plan mid-year presentation
 #### Decide figures/stats needed
 #### Assign slides & plots to create
-#### Select C&C Rep
+#### Select C&C Rep -- Olivia won!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
