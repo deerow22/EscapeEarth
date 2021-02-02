@@ -3,7 +3,8 @@
 
 ## February 23rd
 #### Cheers & Challenges
-#### Finish Analysis Tools class setup
+#### Finish Testing BLS function
+#### Begin Analysis Tools class
 #### Combine each team's function into a script to run BLS analysis 
 #### Test script on subsample 
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
