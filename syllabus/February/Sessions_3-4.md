@@ -2,7 +2,6 @@
 
 
 ## February 9th
-#### Cheers & Challenges
 #### Internship Mid-year Presentations
 #### No exit ticket 
 
