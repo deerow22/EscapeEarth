@@ -2,19 +2,9 @@
 
 
 ## February 23rd
-#### Cheers & Challenges
-#### Finish Testing BLS function
-#### Begin Analysis Tools class
-#### Combine each team's function into a script to run BLS analysis 
-#### Test script on subsample 
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
-
+#### ~~Cheers & Challenges~~
+#### Fix code after Lightkurve Update
+#### Test BLS function
 
 ## February 25th
-#### Visualize BLS results
-#### Use thresholds to reduce sample
-#### Investigate subsamples by eye (make candidates list)
-#### Make a CMD to remove giants
-#### Learn about EBs vs exoplanet transits
-#### Select C&C Rep
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
+#### Women in Tech Guest Speaker
