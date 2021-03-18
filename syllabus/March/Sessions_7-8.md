@@ -1,18 +1,20 @@
 # Syllabus for March 23 & 25 & 30 & April 1
 
 
-## March 16th
-#### Cheers & Challenges
+## March 23rd
+#### Teams share results from last week
 #### Add fold method to our Analysis class
+#### Test thresholds to reduce sample
+#### Write reminder documents
+#### Investigate subsamples by eye (make candidates list)
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
 
-## March 18th
-#### Make a CMD to remove giants
-#### Learn about EBs vs exoplanet transits
-#### Select C&C Rep
-#### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
+## March 25th
+#### Guest Speaker 4 (use cheers & challenges link)
+
+
 
 ## March 30th and April 1st
 ### S P R I N G  B R E A K
