@@ -2,16 +2,19 @@
 
 
 ## March 23rd
-#### Teams share results from last week
+#### Teams finish work (fold function / bls visualizations)
+#### Teams share results from last week 
 #### Add fold method to our Analysis class
-#### Test thresholds to reduce sample
 #### Write reminder documents
+#### Test thresholds to reduce sample
 #### Investigate subsamples by eye (make candidates list)
+#### Select C&C Rep
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
 
 ## March 25th
+#### Cheers and Challenges
 #### Guest Speaker 4 (use cheers & challenges link)
 
 
