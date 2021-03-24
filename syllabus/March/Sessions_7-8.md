@@ -4,10 +4,7 @@
 ## March 23rd
 #### Teams finish work (fold function / bls visualizations)
 #### Teams share results from last week 
-#### Add fold method to our Analysis class
-#### Write reminder documents
-#### Test thresholds to reduce sample
-#### Investigate subsamples by eye (make candidates list)
+#### Write reminder [document](https://docs.google.com/document/d/12I_r6gq9Qfl1A41bHL74RjZz8xy_OrPyUkLxrD7mguc/edit?usp=sharing)
 #### Select C&C Rep
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
