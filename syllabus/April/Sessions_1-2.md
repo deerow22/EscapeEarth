@@ -13,8 +13,10 @@
 
 
 ## April 8th
-#### Make a CMD to remove giants
-#### Learn about EBs vs exoplanet transits
+#### Continue to Test thresholds to reduce sample & make candidates list
+#### Finish Individual Check-ins
+#### Optimize Threshold cut values via Comparing stats from short candidates list to full distributions
+#### Check our candidates against ExoFOP to get final candidates
 #### Select C&C Rep
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
