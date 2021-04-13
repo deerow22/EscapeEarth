@@ -15,9 +15,9 @@
 ## April 8th
 #### Continue to Test thresholds to reduce sample & make candidates list
 #### Finish Individual Check-ins
-#### Optimize Threshold cut values via Comparing stats from short candidates list to full distributions
-#### Check our candidates against ExoFOP to get final candidates
-#### Select C&C Rep
+#### ~~Optimize Threshold cut values via Comparing stats from short candidates list to full distributions~~
+#### ~~Check our candidates against ExoFOP to get final candidates~~
+#### Select C&C Rep - Anna-Claire won!
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
