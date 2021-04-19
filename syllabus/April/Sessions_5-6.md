@@ -3,6 +3,7 @@
 
 ## April 20th
 #### Cheers & Challenges
+#### Finish CMD and giant removal
 #### Learn about EBs vs exoplanet transits
 #### Fold lightcurves in candidate list to categorize EBs vs potential planets
 #### Summarize available statistics & distributions for candidates
