@@ -23,7 +23,7 @@
 ### Happy Earth Day!
 
 <div><div align="left" width=80px>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.i-evolve.com%2Fapplication%2Ffiles%2F7415%2F8756%2F3444%2Fbanner-earth-day-2020.jpg" width="350"">
+    <img src="https://www.i-evolve.com/application/files/cache/thumbnails/03e6bbc77784c753d1a72de13d95250f.jpg" width="350"">
 </div></div>
 
 
