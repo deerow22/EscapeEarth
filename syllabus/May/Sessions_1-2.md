@@ -2,19 +2,16 @@
 
 
 ## May 4th
-#### Cheers & Challenges ?
+#### Fold lightcurves in candidate list to categorize EBs vs potential planets
 #### Calculate stellar radii & potential-planet radii to reduce candidates
+#### Summarize available statistics & distributions for candidates
+#### Decide on Website Plots
 #### Discuss flatten function window lengths for potential impacts
-#### Discuss potential directions:
-1. increase statistical probability of planet (validate)
-2. injection/recovery tests (candidate)
-3. search for available spectra to get radial velocity (confirmation)
-
 #### Select C&C Rep
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
 
 
 
 ## May 6th
-#### Cheers & Challenges ?
+#### Cheers & Challenges
 #### Brown Scholar Alum Guest Speaker
