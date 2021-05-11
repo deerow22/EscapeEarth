@@ -9,7 +9,7 @@
 3. Folded light curve of exoplanet transit
 4. Folded light curve of EB transit
 5. TESS sectors - point out sectors 14 & 15
-6. Histogram showing BLS threshold cuts at power=50 & depth
+6. Histogram showing BLS threshold cuts at power > 50 & duration < 0.125
 7. Sample reduction histogram (I've done this one)
 8. Color-magnitude diagram showing giant removal
 9. A plot of final candidates with planet radii & host star's Teff
