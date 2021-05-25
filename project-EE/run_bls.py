@@ -1,4 +1,6 @@
-#https://docs.google.com/presentation/d/1nJR1YiOolG41xITh9mAs61WhhRY_JuTn8uIx49LPm5k/edit#slide=id.p
+# divided work due to time constraints. this uses stand alone functions for the BLS but  
+# they are the same as the BLS methods used in LCAnalysis...we just ran out of time to 
+# format them into a class and THEN run the BLS. So we created both .py files simultaneously
 
 import matplotlib.pyplot as plt
 import numpy as np
