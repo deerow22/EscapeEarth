@@ -65,77 +65,87 @@ def BLS(periodgrid,lightcurve,flat_time,durationgrid):
 
     #stats is the one peak, periodogram is the array
     return stats
-##############################
-##############################
-#change sector here
-sector = 15
-main_path = '/Volumes/Seagate-stars/SECTORS'
-##############################
-##############################
+    
+    
+    
+#########################################################################################
+
+if __name__=="__main__":
 
 
-#opening target lists
-#different paths have to be added in
-target_path = '{}/Sector_{}/all_targets_S0{}_v1.csv'.format(main_path,sector,sector)
+
+    ##############################
+    ##############################
+    #change sector here
+    sector = 15
+    main_path = '/Volumes/Seagate-stars/SECTORS'
+    ##############################
+    ##############################
 
 
-save_power = '{}/INTERN_RESULTS/bls_powers_sec{}.npy'.format(main_path, sector)
-save_period = '{}/INTERN_RESULTS/bls_periods_sec{}.npy'.format(main_path, sector)
-save_duration = '{}/INTERN_RESULTS/bls_durations_sec{}.npy'.format(main_path, sector)
-save_depth = '{}/INTERN_RESULTS/bls_depths_sec{}.npy'.format(main_path, sector)
-save_transit_time = '{}/INTERN_RESULTS/bls_transit_times_sec{}.npy'.format(main_path, sector)
-save_path = [save_depth,save_duration,save_transit_time,save_period,save_power]
+    #opening target lists
+    #different paths have to be added in
+    target_path = '{}/Sector_{}/all_targets_S0{}_v1.csv'.format(main_path,sector,sector)
 
-final_save = '{}/INTERN_RESULTS/bls_statsdf_sec{}.csv'.format(main_path, sector)
 
-target_list = pd.read_csv(target_path,skiprows=5)
-# target_list15 = pd.read_csv(path15,skiprows=5) #from sector 15
-testing_targets = [ 7582633, 7620704, 7618785, 123 ] #7582594, 7584049 – don't exist
+    save_power = '{}/INTERN_RESULTS/bls_powers_sec{}.npy'.format(main_path, sector)
+    save_period = '{}/INTERN_RESULTS/bls_periods_sec{}.npy'.format(main_path, sector)
+    save_duration = '{}/INTERN_RESULTS/bls_durations_sec{}.npy'.format(main_path, sector)
+    save_depth = '{}/INTERN_RESULTS/bls_depths_sec{}.npy'.format(main_path, sector)
+    save_transit_time = '{}/INTERN_RESULTS/bls_transit_times_sec{}.npy'.format(main_path, sector)
+    save_path = [save_depth,save_duration,save_transit_time,save_period,save_power]
 
-#period grid
-pg = periods()
-#duration grid
-dg = duration_grid()
-#create a empty list for each stat (period,depth,duration,power,transit_time)
-period = []; depth = []; duration = []; power =[]; transit_time = []; tics = []
+    final_save = '{}/INTERN_RESULTS/bls_statsdf_sec{}.csv'.format(main_path, sector)
 
-#change targets here
-##############################
-##############################
-targets = target_list['TICID'].to_numpy()
-##############################
-##############################
+    target_list = pd.read_csv(target_path,skiprows=5)
+    # target_list15 = pd.read_csv(path15,skiprows=5) #from sector 15
+    testing_targets = [ 7582633, 7620704, 7618785, 123 ] #7582594, 7584049 – don't exist
 
-for count,star_id in enumerate(targets):
-	print('Starting {} out of {}'.format(count,len(targets)))
-	data = [star_id,sector]
-	#intialize class
-	lc = op.OpenAndPlot(data)
-	#open data
-	data_path = '/Volumes/Seagate-stars/SECTORS/Sector_{}/Sec{}_cleaned/{}/lc.fits'.format(sector,sector,star_id)
-	open_data = lc.open_lc('clean',data_path)
-	if open_data != "None": #safeguard against no file found
-		#flatten the data
-		flat_lc,flat_time = flatten(open_data)
-		#run the bls on flattened data
-		bls_output = BLS(pg,flat_lc,flat_time,dg)
-		#append each of the stats to a separate list
-		period.append(bls_output[0]); duration.append(bls_output[1])
-		transit_time.append(bls_output[2]); power.append(bls_output[3])
-		depth.append(bls_output[4]); tics.append(star_id)
-		#save that list
-		#np.save()
-		my_arr = [depth,duration,transit_time, period, power]
-		for i in range(len(save_path)):
-			np.save(save_path[i],my_arr[i])
-	else:
-		pass
+    #period grid
+    pg = periods()
+    #duration grid
+    dg = duration_grid()
+    #create a empty list for each stat (period,depth,duration,power,transit_time)
+    period = []; depth = []; duration = []; power =[]; transit_time = []; tics = []
 
-# print(len(period),len(duration),len(depth),len(power),len(transit_time))
-# print(period,duration,depth,depth,power,transit_time)
-#create a dictionary of all the stats
-stats_dict = {'TIC':tics,'Period':period,'Duration':duration,'Transit Time':transit_time, "Power": power,'Depth':depth}
-#use that dictionary to create a pandas dataframe
-stats_df = pd.DataFrame(stats_dict)
-#write that dataframe to a file
-stats_df.to_csv(final_save)
+    #change targets here
+    ##############################
+    ##############################
+    targets = target_list['TICID'].to_numpy()
+    ##############################
+    ##############################
+
+    for count,star_id in enumerate(targets):
+        print('Starting {} out of {}'.format(count,len(targets)))
+        data = [star_id,sector]
+        #intialize class
+        lc = op.OpenAndPlot(data)
+        #open data
+        data_path = '/Volumes/Seagate-stars/SECTORS/Sector_{}/Sec{}_cleaned/{}/lc.fits'.format(sector,sector,star_id)
+        open_data = lc.open_lc('clean',data_path)
+        if open_data != "None": #safeguard against no file found
+            #flatten the data
+            flat_lc,flat_time = flatten(open_data)
+            #run the bls on flattened data
+            bls_output = BLS(pg,flat_lc,flat_time,dg)
+            #append each of the stats to a separate list
+            period.append(bls_output[0]); duration.append(bls_output[1])
+            transit_time.append(bls_output[2]); power.append(bls_output[3])
+            depth.append(bls_output[4]); tics.append(star_id)
+            #save that list
+            #np.save()
+            my_arr = [depth,duration,transit_time, period, power]
+            for i in range(len(save_path)):
+                np.save(save_path[i],my_arr[i])
+        else:
+            pass
+
+    # print(len(period),len(duration),len(depth),len(power),len(transit_time))
+    # print(period,duration,depth,depth,power,transit_time)
+    #create a dictionary of all the stats
+    stats_dict = {'TIC':tics,'Period':period,'Duration':duration,'Transit Time':transit_time, "Power": power,'Depth':depth}
+    #use that dictionary to create a pandas dataframe
+    stats_df = pd.DataFrame(stats_dict)
+    #write that dataframe to a file
+    stats_df.to_csv(final_save)
+
