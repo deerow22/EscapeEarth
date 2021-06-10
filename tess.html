@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>TESS</title>
+  <!-- CSS only -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link rel="stylesheet" href="tess.css">
+
+
+  <header>
+    <!-- make img the background, tess on top, fill the whole top of screen -->
+    <h1 style="text-align:center" > TESS</h1>
+  </header>
+
+  <style>
+      header {
+        background-image: url(https://heasarc.gsfc.nasa.gov/docs/tess/images/tess-banner-inverted_v2.jpg) ;
+        background-repeat: no-repeat;
+        height: 250px;
+        margin: -21px -11px 0px -11px;
+      }
+
+      h1 {
+        color: white;
+        position: relative;
+        top: 114px;
+      }
+
+      nav {
+        background-color: rgb(51,153,255);
+        height: 50px;
+        text-align: center;
+        font-size: 18px;
+        margin: -21px -11px 0px -11px;
+      }
+      p {
+        color: white;
+      }
+      a {
+        position: relative;
+        top: 15px;
+        font-family: sans-serif;
+        color: black;
+      }
+      body {
+        background-color: rgb(0,0,0);
+      }
+
+
+      img {
+        height: 300px;
+        length: 600px;
+      }
+
+      /*-- change img sizing, text on left or right*/
+  </style>
+</head>
+<body>
+  <nav>
+          <a href="index.html">About</a>
+          <a href="tess.html">TESS</a>
+          <a href="analysis.html">Analysis</a>
+          <a href="results.html">Results</a>
+          <a href="team.html">Team </a>
+    </nav>
+
+
+    <div class = "tess_img">
+        <div class="tess1">
+          <img src="images/tess2.png" alt="3D Model of TESS Satellite">
+
+          <p>
+            The Transiting Exoplanet Survey Satellite, also known as TESS, is a NASA satellite that's job is to survey the sky in a search for exoplanets. It's goal is to find planet candidates to increase the number of known exoplanets and to facilitate future researchers with a larger set of targets for follow-up studies.
+          </p>
+        </div>
+        <div class ="tess2">
+            <img src="images/TESS_SkyCoverage.jpg" alt="Map of TESS Sky Coverage">
+
+            <p>
+              Sectors (shown by the blue overlapping lines in the image above) are defined as a part of a sphere and are used to make the process of collecting data the most efficient and precise as possible. TESS uses 26 individual sectors to capture space, with 13 in each of the northern and southern hemispheres.
+              We choose to focus our exoplanet search within sectors 14 & 15. The Kepler mission also observed there so we had opportunity to validate our methods by recovering known planets. However unlike Kepler, TESS was optimized for low-mass stars so we still had the potential to discover new exoplanets.
+            </p>
+        </div>
+    </div>
+
+</body>
+<!-- <div>
+  <footer>
+    <p>© Escapists 2021</p>
+  </footer>
+
+</div> -->
+
+</html>

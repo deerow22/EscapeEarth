@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=10.0">
+    <header>
+      <h1 style="text-align:center" > Welcome to the Escape Earth Project</h1>
+      <img src= "images/tess.png" alt= "Tess Picture">
+    </header>
+    <style>
+
+        header {
+        background-color: rgb(94, 120, 238);
+        padding-left: 500px;
+        /*padding-left: 500px;*/
+        }
+        body {
+        background-color: rgb(186, 197, 248);
+        }
+        img{
+            height: 300px;
+            width: 450px;
+            margin-bottom: 10px;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+          <a href="index.html">About</a>
+          <a href="tess.html">TESS</a>
+          <a href="analysis.html">Analysis</a>
+          <a href="results.html">Results</a>
+          <a href="team.html">Team </a>
+    </nav>
+
+
+<main>
+  <h2> Hello everyone! We are The Escapists-- a group of second year Bridge Up Students completing a computational research internship at The American Natural Museum of History. </h2>
+  <h2>Project Abstract</h2>
+  <p style= "line-height: 2">
+    In the year 2020, our climate crisis and the COVID-19 pandemic had many feeling the need to escape - but to where? During the Escape Earth Experience, we searched for exoplanets orbiting stars observed by the Transiting Exoplanet Survey Satellite (TESS). We found 8 exoplanet candidates, 3 of which were previously unknown. TESS is an all-sky survey optimized for finding exoplanets, and it has observed > ½ million stars at a 2-minute cadence. Each star’s data is called a light curve, which is multiple measurements of the star’s brightness over a period of time. When an orbiting object crosses in front of its star there is a brief periodic reduction in the star’s measured brightness called a transit. However, this method can’t detect all possible planet transits because of how limited our view is. We can only observe transits of exoplanets whose orbital planes are aligned with our line of sight. For our project we selected 40,000 light curves from two sectors of observation, representing 27,906 stars, to search for transit signals in the data. We created a GitHub hosted library of tools written in Python to clean, analyze, and visualize the light curves and the transits we found. To find exoplanets we first reduced our sample size by implementing a temperature and magnitude cut to isolate main sequence stars. Then we wrote code for a Box-Least Squares (BLS) analysis that searches for transit signals. Using a combination of thresholds in BLS values we selected stellar candidates with the strongest transit signals. Finally, we visually inspected each star’s light curves, BLS statistics and used the BLS values to calculate the transiting object’s radius in order to remove objects too large to be exoplanets, such as binary stars. The estimated radii of our newly discovered exoplanet candidates measured 12, 24, & 11 Earth radii. These are very large and are likely Hot Jupiters, Brown Dwarf Stars, or Gas Giant Planets, therefore further study is needed to characterize these new worlds. Searching for exoplanets as small as Earth is a difficult task, as our project has shown, but we have gained skills and added programming tools that can assist in the ongoing search for Earth’s Plan(et) B.
+
+    </p>
+
+
+</main>
+<div>
+  <footer>
+    <p style ="color:white">&copy; Escapists 2021</p>
+  </footer>
+
+</div>
+</body>
+</html>

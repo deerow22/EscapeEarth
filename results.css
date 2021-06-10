@@ -1,0 +1,90 @@
+header h1 {
+  font-size: 100px;
+  font-family: "Arial";
+}
+
+header {
+  background-image: ;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 250px;
+  margin: -21px -11px 0px -11px;
+}
+
+body {
+background-color: rgb(186, 197, 248);
+}
+
+body h2 {
+  font-size: 50px;
+  font-family: "Arial";
+}
+nav {
+  background-color: rgb(94, 120, 238);
+  text-align: center;
+}
+
+
+nav a {
+  font-size: 40px;
+  margin: 0 100 0 20;
+}
+
+body p {
+  font-size: 35px;
+  font-family: "Arial";
+}
+
+.deck {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: space-around;
+}
+
+.deck div {
+  height: 50px;
+  width: 1000px;
+  /* margin: 0 auto; */
+
+}
+
+.card1{
+  order:1;
+  /* margin-left: -10px; */
+}
+.card2 {
+  order:2;
+  /* margin-left: 1600px; */
+}
+.card1 img{
+  height: 700px;
+  width: 955px;
+  padding-top:10%;
+  padding-right: 20%;
+}
+
+.card2 p{
+  /* height: 50%auto; */
+  /* width: 50%auto; */
+  /* padding-left: 800px; */
+  /* padding-top: 150px; */
+  padding-top: 0px;
+  padding-left:20% ;
+
+}
+.card2 h2 {
+  /* padding-left: 60px; */
+  padding-left: 20%;
+  padding-top: 800px;
+}
+
+.card3 {
+  height: 50%auto;
+  width: 50%auto;
+  font-weight: bold;
+
+}
