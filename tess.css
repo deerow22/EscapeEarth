@@ -24,6 +24,28 @@ text-align: left;
   text-align: right;
 }
 
+.lc_examples {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    margin-top: 900px ;
+
+}
+.lc1 {
+  justify-content: space-between;
+}
+.lc2 {
+  justify-content: space-between;
+
+}
+.lc_examples .lcp {
+  text-align: center;
+  margin-left:auto;
+  margin-right: auto;
+  width: 20em;
+}
 /* footer {
   display: flex;
   color: rgb(255,255,255);

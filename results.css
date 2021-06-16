@@ -1,11 +1,17 @@
 header h1 {
   font-size: 100px;
   font-family: "Arial";
+  color:  rgb(230, 231, 235);
 }
 
 header {
-  background-image: ;
+  background-image: url(images/starcluster_background.png);
+  /* background-repeat: round ; */
+  background-size: cover;
+  background-position: center;
+  /* background-attachment:fixed; */
   /*background-color: rgb(94, 120, 238);*/
+  
   padding-left: 500px;
   padding-right: 500px;
   padding-top: 50px;
@@ -74,18 +80,21 @@ body p {
   /* padding-left: 800px; */
   /* padding-top: 150px; */
   padding-top: 0px;
-  padding-left:20% ;
+/*   padding-left:20% ; */
+  text-align: left;
 
 }
 .card2 h2 {
   /* padding-left: 60px; */
-  padding-left: 20%;
+/*   padding-left: 20%; */
   padding-top: 800px;
+  text-align: left;
 }
 
 .card3 {
   height: 50%auto;
   width: 50%auto;
   font-weight: bold;
+  text-align: center;
 
 }
