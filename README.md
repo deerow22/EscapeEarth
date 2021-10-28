@@ -12,5 +12,7 @@
 <br />
 
 <hr>
+Public Instructions: Please review our webpage link in the "About" Section on the right to learn about our project. Afterwards, code to reproduce this project and jupyter notebooks documenting our final result exoplanet candidates is available in the "project-EE" folder. Thanks for visiting! 
 
-materials for Brown Scholar 2020-2021 Interns
+
+General materials for Brown Scholar 2020-2021 Interns
